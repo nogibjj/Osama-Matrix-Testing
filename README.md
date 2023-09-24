@@ -44,5 +44,5 @@ By expanding our testing matrix to encompass a range of Python versions and oper
 
 ## Below is a demonstration of the various OSs and python versions that we have used. You can also view them by clicking the provided badge `OnInstall` and expanding the workflow run
 
-![Matrix Image](/output/matrix.jpg)
+![Matrix Image](/output/matrix.png)
 
