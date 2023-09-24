@@ -1,7 +1,8 @@
-[![Matrix Build](https://github.com/nogibjj/Osama-Matrix-Testing/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Osama-Matrix-Testing/actions/workflows/install.yml)
+[![OnInstall](https://github.com/nogibjj/Osama-Matrix-Testing/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Osama-Matrix-Testing/actions/workflows/install.yml)
 
-# Github Actions Matrix Build, using two versions of Python against two different Operating Systems
-## This project provides a practical demonstration of how to implement Continuous Integration (CI) in Python-based Data Science projects using GitHub Actions. Embracing CI facilitates the preservation of code quality and uniformity during the entire development journey. The workflows encompass tasks such as code linting, formatting, dependency installation, and test execution. This guarantees that these essential procedures are automatically triggered with each repository push and pull request, streamlining the development process.
+# Github Actions Matrix Build, using multiple versions of Python against multiple Operating Systems
+
+The primary objective of this project is to establish a robust foundation for matrix building, installation, and testing. By orchestrating this comprehensive testing environment, we aim to guarantee compatibility across a diverse spectrum of projects and platforms. This endeavor involves the integration of multiple operating systems and Python versions, allowing us to assess the performance and reliability of our code under various configurations. Ultimately, our pursuit of compatibility ensures that our project seamlessly adapts to the intricacies of different software environments, providing a solid, dependable solution for a wide range of users and projects.
 
 
 
@@ -41,4 +42,7 @@ This project builds upon the foundation of the previous Continuous Integration s
 
 By expanding our testing matrix to encompass a range of Python versions and operating systems, we enhance the robustness of our project, making it more accessible and dependable for a diverse user base.
 
+## Below is a demonstration of the various OSs and python versions that we have used. You can also view them by clicking the provided badge `OnInstall` and expanding the workflow run
+
+![Matrix Image](/output/matrix.jpg)
 
