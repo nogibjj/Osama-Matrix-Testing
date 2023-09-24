@@ -42,7 +42,7 @@ This project builds upon the foundation of the previous Continuous Integration s
 
 By expanding our testing matrix to encompass a range of Python versions and operating systems, we enhance the robustness of our project, making it more accessible and dependable for a diverse user base.
 
-## Below is a demonstration of the various OSs and python versions that we have used. You can also view them by clicking the provided badge `OnInstall` and expanding the workflow run
+## Below is a demonstration of the various OSs and python versions that we have used. You can also view them by clicking the provided `OnInstall` badge and expanding the workflow run
 
 ![Matrix Image](/output/matrix.png)
 
