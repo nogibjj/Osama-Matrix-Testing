@@ -8,7 +8,7 @@ The primary objective of this project is to establish a robust foundation for ma
 
 # Github Actions Matrix Build
 
-This GitHub Actions workflow is designed to automate the testing and building process for a project by utilizing a matrix that includes two different versions of Python and two distinct operating systems. This setup allows you to ensure the compatibility and reliability of your code across multiple Python versions and operating system environments.
+This GitHub Actions workflow is designed to automate the testing and building process for a project by utilizing a matrix that includes three different versions of Python and two distinct operating systems. This setup allows you to ensure the compatibility and reliability of your code across multiple Python versions and operating system environments.
 
 ## Overview
 
@@ -36,7 +36,6 @@ To incorporate this matrix build workflow into your project, follow these steps:
 
 
 ## Use Case
-## Project Background
 
 This project builds upon the foundation of the previous Continuous Integration setup in our previous individual project [linked here](https://github.com/nogibjj/Osama---Continuous-Integration-using-GitHub-Actions-of-Python-Data-Science-Project). It aims to ensure the compatibility and reliability of our code by running the desired descriptive statistics and Python versions across the latest Ubuntu and Windows operating systems. We achieve this by testing our code against three different versions of Python, thereby broadening the scope of our testing matrix.
 
