@@ -2,11 +2,10 @@
 [![OnInstall](https://github.com/nogibjj/Osama---Continuous-Integration-using-GitHub-Actions-of-Python-Data-Science-Project/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Osama---Continuous-Integration-using-GitHub-Actions-of-Python-Data-Science-Project/actions/workflows/install.yml)
 [![Lint](https://github.com/nogibjj/Osama---Continuous-Integration-using-GitHub-Actions-of-Python-Data-Science-Project/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Osama---Continuous-Integration-using-GitHub-Actions-of-Python-Data-Science-Project/actions/workflows/lint.yml)
 [![Test](https://github.com/nogibjj/Osama---Continuous-Integration-using-GitHub-Actions-of-Python-Data-Science-Project/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Osama---Continuous-Integration-using-GitHub-Actions-of-Python-Data-Science-Project/actions/workflows/test.yml)
+[![OnInstall](https://github.com/nogibjj/Osama-Matrix-Testing/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Osama-Matrix-Testing/actions/workflows/install.yml)
 
 # Continuous Integration using GitHub Actions of Python Data Science Project
 ## This project provides a practical demonstration of how to implement Continuous Integration (CI) in Python-based Data Science projects using GitHub Actions. Embracing CI facilitates the preservation of code quality and uniformity during the entire development journey. The workflows encompass tasks such as code linting, formatting, dependency installation, and test execution. This guarantees that these essential procedures are automatically triggered with each repository push and pull request, streamlining the development process.
-
-# Continuous Integration with GitHub Actions for Python Data Science Project
 
 ## Project Overview
 
